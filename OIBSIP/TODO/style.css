@@ -1,0 +1,91 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: #14131a;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    max-width: max-content;
+    margin: 0 auto;
+    background: black;
+    color: red;
+  }
+.div
+{
+    height: auto;
+    width: 99vw;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+.sample
+{
+    display: flex;
+    justify-content: left;
+    border: 0px;
+}
+input
+{
+   width: 700px; 
+   background-color:rgb(241, 241, 226);
+   height: 35px;
+   border-left: 0px;
+   flex-grow: 1;
+   color: black;
+   margin-left: 5px;
+   margin-right: 5px;
+   border-radius: 20px;
+   align-content: center;
+    text-align: center;
+   
+}   
+.one{
+    width: 83%; 
+
+}
+
+
+.wow{
+    align-items: center;
+    width: 99%; 
+
+}
+.pendings
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add
+{
+    background-color: greenyellow;
+    height: 35px;
+    width: 70px;
+    border: 0px;
+}
+.edit
+{
+    background-color: yellow;
+    height: 35px;
+    width: 70px;
+    border: 0px;
+}
+.delete
+{
+    background-color: red;
+    height: 35px;
+    width: 70px;
+    border: 0px;
+}
+.complete
+{
+    background-color: green;
+    height: 35px;
+    width: 70px;
+    border: 0px;
+
+}
